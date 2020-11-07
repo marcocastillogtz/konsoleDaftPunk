@@ -37,19 +37,19 @@ function createsoundbite(sound) {
 }
 
 //Inicializar sonidos
-var workIt = createsoundbite("sonidos/workIt.wav");
-var makeIt = createsoundbite("sonidos/makeIt.wav");
-var doIt = createsoundbite("sonidos/doIt.wav");
-var makeUS = createsoundbite("sonidos/makeUs.wav");
-var harder = createsoundbite("sonidos/harder.wav");
-var better = createsoundbite("sonidos/better.wav");
-var faster = createsoundbite("sonidos/faster.wav");
-var stronger = createsoundbite("sonidos/stronger.wav");
-var moreThan = createsoundbite("sonidos/moreThan.wav");
-var hour = createsoundbite("sonidos/hour.wav");
-var our = createsoundbite("sonidos/our.wav");
-var never = createsoundbite("sonidos/never.wav");
-var ever = createsoundbite("sonidos/ever.wav");
-var after = createsoundbite("sonidos/after.wav");
-var workIs = createsoundbite("sonidos/workIs.wav");
-var over = createsoundbite("sonidos/over.wav");
+var workIt = createsoundbite("sonidos/workIt.mp3");
+var makeIt = createsoundbite("sonidos/makeIt.mp3");
+var doIt = createsoundbite("sonidos/doIt.mp3");
+var makeUS = createsoundbite("sonidos/makeUs.mp3");
+var harder = createsoundbite("sonidos/harder.mp3");
+var better = createsoundbite("sonidos/better.mp3");
+var faster = createsoundbite("sonidos/faster.mp3");
+var stronger = createsoundbite("sonidos/stronger.mp3");
+var moreThan = createsoundbite("sonidos/moreThan.mp3");
+var hour = createsoundbite("sonidos/hour.mp3");
+var our = createsoundbite("sonidos/our.mp3");
+var never = createsoundbite("sonidos/never.mp3");
+var ever = createsoundbite("sonidos/ever.mp3");
+var after = createsoundbite("sonidos/after.mp3");
+var workIs = createsoundbite("sonidos/workIs.mp3");
+var over = createsoundbite("sonidos/over.mp3");
